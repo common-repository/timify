@@ -1,0 +1,258 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Timify\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-07-12 08:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.3; wp-5.7.2\n"
+"X-Domain: timify"
+
+#: includes/frontend/class.frontend.php:291
+msgid "1"
+msgstr ""
+
+#: includes/admin/settings/class.settings.php:93
+msgid "ago"
+msgstr ""
+
+#: includes/admin/settings/class.settings.php:57
+msgid "Apply Date Time Format To"
+msgstr ""
+
+#: includes/admin/settings/class.settings.php:212
+msgid "Apply Post Type"
+msgstr ""
+
+#: includes/admin/settings/class.settings.php:73
+msgid "Apply to Posts Time Ago Show Not Older Than"
+msgstr ""
+
+#: includes/admin/settings/class.settings.php:115
+#: includes/admin/settings/class.settings.php:187
+msgid "Before Content"
+msgstr ""
+
+#: includes/admin/settings/class.settings.php:134
+#: includes/admin/settings/class.settings.php:205
+msgid "Center"
+msgstr ""
+
+#: includes/admin/settings/class.settings.php:91
+msgid "Change Ago Word "
+msgstr ""
+
+#: includes/admin/settings/class.settings-api.php:410
+msgid "Choose File"
+msgstr ""
+
+#: timify.php:90
+msgid "Cloning is forbidden."
+msgstr ""
+
+#: includes/admin/settings/class.settings.php:123
+msgid "Copy Last Modified Date Shortcode Enter the Post Content"
+msgstr ""
+
+#: includes/admin/settings/class.settings.php:194
+msgid "Copy Reading Time Shortcode Enter the Post Content"
+msgstr ""
+
+#: includes/admin/settings/class.settings.php:60
+msgid "Date"
+msgstr ""
+
+#: includes/admin/settings/class.settings.php:79
+msgid "Days"
+msgstr ""
+
+#: includes/admin/class.metabox.php:76
+msgid "Disable last modified date on this post"
+msgstr ""
+
+#: includes/admin/class.metabox.php:81
+msgid "Disable reading time on this post"
+msgstr ""
+
+#: timify.php:314
+msgid "Docs"
+msgstr ""
+
+#: includes/admin/settings/class.settings.php:141
+msgid "Enter CSS Selector of Post Date:"
+msgstr ""
+
+#: includes/admin/settings/class.settings.php:177
+msgid "Enter Word Per Minute"
+msgstr ""
+
+#: includes/admin/settings/class.settings.php:78
+msgid "Hours"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.themeim.com"
+msgstr ""
+
+#: includes/admin/class.metabox.php:53
+msgid "Last Modified and Reading Time Info"
+msgstr ""
+
+#: includes/admin/settings/class.settings.php:130
+msgid "Last Modified Before Content Alignment:"
+msgstr ""
+
+#: includes/admin/settings/class.settings.php:98
+msgid "Last Modified Enable"
+msgstr ""
+
+#: includes/admin/settings/class.settings.php:105
+msgid "Last Modified Label"
+msgstr ""
+
+#: includes/admin/settings/class.settings.php:107
+msgid "Last modified on:"
+msgstr ""
+
+#: includes/admin/settings/class.settings.php:112
+msgid "Last Modified Time Display Method:"
+msgstr ""
+
+#: includes/admin/settings/class.settings.php:133
+#: includes/admin/settings/class.settings.php:204
+msgid "Left"
+msgstr ""
+
+#: includes/admin/settings/class.settings.php:172
+msgid "Minute"
+msgstr ""
+
+#: includes/admin/settings/class.settings.php:77
+#: includes/admin/settings/class.settings.php:165
+msgid "Minutes"
+msgstr ""
+
+#: includes/admin/settings/class.settings.php:62
+msgid "Modified Date"
+msgstr ""
+
+#: includes/admin/settings/class.settings.php:63
+msgid "Modified Time"
+msgstr ""
+
+#: includes/admin/settings/class.settings.php:80
+msgid "Months"
+msgstr ""
+
+#: includes/admin/settings/class.settings.php:201
+msgid "Reading Time Before Content Alignment:"
+msgstr ""
+
+#: includes/admin/settings/class.settings.php:184
+msgid "Reading Time Display Method"
+msgstr ""
+
+#: includes/admin/settings/class.settings.php:149
+msgid "Reading Time Enable"
+msgstr ""
+
+#: includes/admin/settings/class.settings.php:156
+msgid "Reading Time Label"
+msgstr ""
+
+#: includes/admin/settings/class.settings.php:163
+msgid "Reading Time Postfix"
+msgstr ""
+
+#: includes/admin/settings/class.settings.php:170
+msgid "Reading Time Postfix Singular"
+msgstr ""
+
+#: includes/admin/settings/class.settings.php:158
+msgid "Reading Time:"
+msgstr ""
+
+#: includes/admin/settings/class.settings.php:116
+msgid "Replace Published Date"
+msgstr ""
+
+#: includes/admin/settings/class.settings.php:135
+#: includes/admin/settings/class.settings.php:206
+msgid "Right"
+msgstr ""
+
+#: includes/admin/settings/class.settings.php:188
+msgid "ShortCode"
+msgstr ""
+
+#: includes/admin/settings/class.settings.php:117
+msgid "Shortcode"
+msgstr ""
+
+#. Author of the plugin
+msgid "themeim"
+msgstr ""
+
+#: includes/admin/settings/class.settings.php:143
+msgid ""
+"This field for replace published date css selector. If you are using any "
+"caching plugin, please clear/remove your cache after any changes made to "
+"this field."
+msgstr ""
+
+#: includes/admin/settings/class.settings.php:61
+msgid "Time"
+msgstr ""
+
+#. Name of the plugin
+#: includes/admin/settings/class.settings.php:25
+msgid "Timify"
+msgstr ""
+
+#: includes/admin/settings/class.settings.php:230
+msgid "Timify Options"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Timify plugin is working on post published date,time,modified date,modified "
+"time formating and last modified date and reading time show on post content."
+msgstr ""
+
+#: includes/admin/settings/class.settings.php:24
+#: includes/admin/settings/class.settings.php:36
+msgid "Timify Settings"
+msgstr ""
+
+#: timify.php:99
+msgid "Universalizing instances of this class is forbidden."
+msgstr ""
+
+#: timify.php:314
+msgid "View documentation"
+msgstr ""
+
+#: timify.php:234
+#, php-format
+msgid ""
+"You are currently using %1$s theme. Did you know that themeim plugins give "
+"you more features and flexibility with one of our <a href=\"%2$s\">themeim "
+"themes</a>?"
+msgstr ""
+
+#: includes/admin/class.metabox.php:75
+msgid "You can disable auto insertation of last modified date on this"
+msgstr ""
+
+#: includes/admin/class.metabox.php:80
+msgid "You can disable auto insertation of reading time on this"
+msgstr ""
